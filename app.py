@@ -359,6 +359,6 @@ if st.button("Predict Demand"):
 st.divider()
 
 st.caption(
-    "FMCG Supply Chain Optimization Project"
+    "Developed by Anushka Gupta | FMCG Supply Chain Optimization Project"
 )
 
