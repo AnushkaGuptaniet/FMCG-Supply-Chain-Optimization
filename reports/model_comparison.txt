@@ -1,0 +1,5 @@
+Logistic Regression and Random Forest were evaluated for demand category prediction.
+After eliminating data leakage, both models achieved approximately 34% accuracy. 
+This suggests that the available predictor variables were insufficient to explain 
+demand behavior, emphasizing the importance of domain-specific features such as historical 
+sales trends, seasonality, promotions, customer demand patterns, and regional effects.
