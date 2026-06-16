@@ -359,6 +359,6 @@ if st.button("Predict Demand"):
 st.divider()
 
 st.caption(
-    "Developed by Ayush Kumar Mandal | FMCG Supply Chain Optimization Project"
+    "FMCG Supply Chain Optimization Project"
 )
 
